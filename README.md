@@ -1,9 +1,20 @@
 # Roman Ivanov - Data Engineer
 
-📍 Moscow, Russia   
-📧 [general@ivanovra.ru](mailto:general@ivanovra.ru)  
-🔗 [GitHub: ivr0ma](https://github.com/ivr0ma)  
-🔗 [Telegram: @ivr0ma](https://t.me/ivr0ma)  
+<p align='center'>
+   <a href="https://github.com/ivr0ma">
+       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+   </a>
+   <a href="mailto:general@ivanovra.ru">
+       <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+   </a>
+   <a href="https://t.me/ivr0ma">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+</p>
+
+<p align='center'>
+   <img src="https://img.shields.io/badge/Location-Moscow,%20Russia-FF5733?style=for-the-badge&logo=location-arrow&logoColor=white"/>
+</p>
 
 ## Skills
 
